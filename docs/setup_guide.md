@@ -2,13 +2,13 @@
 
 ## 1. Clone the Repository
 
-git clone https://github.com/Priyank-14/nexus.git
+git clone https://github.com/Priyank-14/NEXUS.git
 
-## 2. Open the Project Folder
+## 2. Navigate to Project
 
-cd nexus
+cd NEXUS
 
-## 3. Install Required Libraries
+## 3. Install Dependencies
 
 pip install -r requirements.txt
 

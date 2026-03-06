@@ -1,6 +1,6 @@
 # Nexus Architecture
 
-Nexus follows a modular architecture.
+Nexus is built using a modular architecture.
 
 Core
 Handles assistant logic and voice interaction.
@@ -18,4 +18,4 @@ UI
 Provides graphical interface and assistant animations.
 
 Utils
-Contains reusable helper utilities used throughout the system.
+Contains reusable helper utilities.

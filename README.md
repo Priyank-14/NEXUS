@@ -1,18 +1,42 @@
 # Nexus AI Assistant
 
-A modular Python-based voice assistant designed for system automation, file management, and information services.
+Nexus is a modular Python-based voice assistant designed to automate tasks, manage files, and provide useful information through voice commands.
 
-## Repository
+## Features
 
-https://github.com/Priyank-14/NEXUS
+* Voice command interaction
+* System automation
+* File management
+* Internet services (weather, sports, news)
+* Modular architecture
 
-## Key Features
+## Project Structure
 
-• Voice command interaction
-• System automation
-• File management
-• Internet services (weather, sports, news)
-• Modular architecture
+core → assistant logic
+automation → system control
+file_system → file management
+services → internet APIs
+ui → interface and animations
+utils → helper utilities
+data → logs and configuration
+
+## Installation
+
+Clone the repository:
+
+git clone https://github.com/Priyank-14/NEXUS.git
+
+Go to the project folder:
+
+cd NEXUS
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+Run the assistant:
+
+python main.py
 
 ## Author
 

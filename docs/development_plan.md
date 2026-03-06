@@ -1,13 +1,13 @@
-# Nexus Development Roadmap
+# Nexus Development Plan
 
 Phase 1
-Voice system
+Voice System
 
 * Speech recognition
 * Text-to-speech
 
 Phase 2
-Command processing
+Command Processing
 
 * Parse commands
 * Route commands to modules
@@ -15,11 +15,11 @@ Command processing
 Phase 3
 Automation
 
-* Launch applications
+* Launch apps
 * System control
 
 Phase 4
-File system
+File System
 
 * Create files
 * Delete files
@@ -28,12 +28,12 @@ File system
 Phase 5
 Services
 
-* Weather
-* Sports
-* News
+* Weather updates
+* Sports updates
+* News headlines
 
 Phase 6
-User interface
+User Interface
 
 * Assistant window
-* Listening animations
+* Voice animations
