@@ -1,0 +1,6 @@
+{
+  "assistant_name": "Nexus",
+  "wake_word": "hey nexus",
+  "default_browser": "chrome",
+  "log_enabled": true
+}

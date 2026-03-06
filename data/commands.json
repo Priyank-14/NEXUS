@@ -1,0 +1,6 @@
+{
+  "open chrome": "app_launcher",
+  "shutdown laptop": "power_control",
+  "create file": "file_manager",
+  "delete file": "file_manager"
+}
