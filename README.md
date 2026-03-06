@@ -2,10 +2,9 @@
 
 A modular Python-based voice assistant designed for automation, file management, and information services.
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Python](https://img.shields.io/badge/Python-3.11+-blue)
+![Status](https://img.shields.io/badge/Status-Planning-yellow)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Status-Development-orange)
-
 ---
 
 ## Overview
