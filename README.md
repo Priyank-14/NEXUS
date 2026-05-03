@@ -1,74 +1,110 @@
-# NEXUS AI Assistant
-
-A modular Python-based voice assistant designed for automation, file management, and information services.
-
 ![Python](https://img.shields.io/badge/Python-3.11+-blue)
-![Status](https://img.shields.io/badge/Status-Planning-yellow)
+![Type](https://img.shields.io/badge/Application-AI%20Assistant-purple)
+![Architecture](https://img.shields.io/badge/Architecture-Modular-orange)
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 ![License](https://img.shields.io/badge/License-MIT-green)
----
 
-## Overview
+# 🤖 NEXUS AI Assistant
 
-NEXUS is a personal voice assistant built in Python with a modular architecture.
-It can automate system tasks, manage files, and provide information through voice commands.
+A modular Python-based voice assistant designed for automation, file management, and intelligent task execution.
 
 ---
 
-## Features
+## 📌 Overview
 
-* Voice command interaction
-* System automation
-* File management
-* Internet services (weather, sports, news)
-* Modular architecture
-* Extendable design
+NEXUS is a **modular AI-powered voice assistant** built using Python, designed to automate system tasks, manage files, and provide real-time information through voice interaction.
+
+The project follows a **scalable architecture**, making it easy to extend with new features and services.
 
 ---
 
-## Project Structure
+## 🎯 Objective
 
-core → assistant logic
-automation → system control
-file_system → file management
-services → internet APIs
-ui → interface and animations
-utils → helper utilities
-data → logs and configuration
+* Build a modular voice assistant system
+* Automate daily system-level tasks
+* Implement voice-based command execution
+* Design scalable and maintainable architecture
+* Integrate multiple services into a single assistant
 
 ---
 
-## Installation
+## ✨ Features
 
-Clone the repository:
+* 🎤 Voice command interaction
+* ⚙️ System automation
+* 📁 File management
+* 🌐 Internet-based services (weather, news, etc.)
+* 🧩 Modular and extendable design
 
+---
+
+## 🧠 System Architecture
+
+The project is organized into independent modules:
+
+* `core/` → Assistant logic
+* `automation/` → System control tasks
+* `file_system/` → File operations
+* `services/` → External APIs
+* `ui/` → Interface and interaction layer
+* `utils/` → Helper functions
+* `data/` → Logs and configuration
+* `tests/` → Testing modules
+
+---
+
+## 🛠️ Tech Stack
+
+* Language: Python
+* Concepts: Modular Architecture, Automation, CLI Systems
+* Libraries: (as per requirements.txt)
+
+---
+
+## ▶️ How to Run
+
+```bash id="nexus1"
 git clone https://github.com/Priyank-14/NEXUS.git
-
-Navigate to the project folder:
-
 cd NEXUS
-
-Install dependencies:
-
 pip install -r requirements.txt
-
-Run the assistant:
-
 python main.py
+```
 
 ---
 
-## Development Roadmap
+## 🚧 Development Status
 
-Phase 1 — Voice system
-Phase 2 — Command processing
-Phase 3 — Automation modules
-Phase 4 — File management
-Phase 5 — Internet services
-Phase 6 — UI interface
+This project is currently **under active development**.
 
 ---
 
-## Author
+## 🗺️ Roadmap
 
-Priyank Sinha
-GitHub: https://github.com/Priyank-14
+* Phase 1 — Voice system
+* Phase 2 — Command processing
+* Phase 3 — Automation modules
+* Phase 4 — File management
+* Phase 5 — Internet services
+* Phase 6 — UI interface
+
+---
+
+## 🔍 Key Insight
+
+Designing modular systems early makes it easier to scale complex applications like AI assistants without tightly coupling components.
+
+---
+
+## 📌 Key Learnings
+
+* Designing modular architectures
+* Structuring large Python projects
+* Integrating multiple system-level functionalities
+* Planning scalable software systems
+
+---
+
+## 👨‍💻 Author
+
+**Priyank Sinha**
+B.Tech CSE | AI/ML Enthusiast
