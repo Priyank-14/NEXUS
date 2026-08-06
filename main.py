@@ -1,13 +1,7 @@
-from core.voice_engine import VoiceEngine
+from core.speech_listener import SpeechListener
 
+listener = SpeechListener()
 
-def main():
-    print("Initializing Nexus...")
+command = listener.listen()
 
-    voice = VoiceEngine()
-
-    voice.speak("Hello Priyank. I am Nexus.")
-
-
-if __name__ == "__main__":
-    main()
+print(f"Returned Command: {command}")
